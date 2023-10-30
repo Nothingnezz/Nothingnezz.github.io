@@ -1,0 +1,16 @@
+header {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  height: 150px;
+}
+nav a {
+  color: white;
+  display: flex;
+}
+nav a:visited {
+  color: white;
+}
+h2 p {
+  display: flex;
+}
