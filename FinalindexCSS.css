@@ -1,0 +1,79 @@
+header {
+  background-color: #fde74c;
+  text-align: center;
+  color: #5bc0eb;
+  height: 200px;
+  font-size: 200%;
+}
+nav a {
+  color: #fde74c;
+  display: flex;
+}
+h2 p {
+  display: flex;
+}
+html {
+  background-image: url(sky.png);
+}
+main {
+  color: #404e4d;
+}
+li {
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5bc0eb;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: #404e4d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+h2 {
+  font-size: 500%;
+}
+p {
+  font-size: 400%;
+}
+#Narration {
+  float: right;
+}
+#questionForm {
+  padding-left: 600px;
+}
+#formHeader {
+  text-align: center;
+}
+#alumniText {
+  font-size: 400%;
+}
+td {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 2px solid #404e4d;
+  border-collapse: collapse;
+}
+th,
+td {
+  font-size: 200%;
+  color: #404e4d;
+}
+footer {
+  color: #404e4d;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer p {
+  font-size: 100%;
+}
